@@ -34,12 +34,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermegarcia1&show_icons=true&theme=dark)
-
----
-
 ## 📫 Contact
 
 - LinkedIn: https://www.linkedin.com/in/guilherme-garcia-1809a566/
